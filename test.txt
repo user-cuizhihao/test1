@@ -3,7 +3,13 @@ hello
 
 对文件进行了优化
 。。。
+
 js..
 private ....
 mvc
 ...
+
+private int id;
+private String name;
+get/set
+mvc
